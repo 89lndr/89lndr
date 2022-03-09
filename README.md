@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @89lndr
 - 👀 I’m interested in linux, devops, git, opensource
-- 🌱 I’m currently learning devops, python
+- 🌱 I’m currently learning devops, python, jupiter, machine learning
 
 <!---
 89lndr/89lndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
